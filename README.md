@@ -9,6 +9,7 @@ o Problem #1
   - If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6 and 9. The sum of these multiples is 23.
     Find the sum of all the multiples of 3 or 5 below 1000.
   - Solution is on the <strong>FirstProblem.cs</strong> file.
+  - [Reference Address](https://www.mathblog.dk/project-euler-problem-1/)
 
 o Problem #2
 
@@ -18,5 +19,6 @@ o Problem #2
     1, 2, 3, 5, 8, 13, 21, 34, 55, 89, ...
     By considering the terms in the Fibonacci sequence whose values do not exceed four million, find the sum of the even-valued terms.
   - Solution is on the <strong>SecondProblem.cs</strong> file.
+  - [Reference Address](https://www.mathblog.dk/project-euler-problem-2/)
 
 🥷 Have Fun 🥷
