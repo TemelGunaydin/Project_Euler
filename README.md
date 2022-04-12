@@ -21,4 +21,12 @@ o Problem #2
   - Solution is on the <strong>SecondProblem.cs</strong> file.
   - [Reference Address](https://www.mathblog.dk/project-euler-problem-2/)
 
+o Problem #3
+
+- Problem Statement
+
+  - The prime factors of 13195 are 5, 7, 13 and 29. What is the largest prime factor of the number 600851475143 ?
+  - Solution is on the <strong>ThirdProblem.cs</strong> file.
+  - [Reference Address](https://www.mathblog.dk/project-euler-problem-3/)
+
 🥷 Have Fun 🥷
